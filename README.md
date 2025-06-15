@@ -1,1 +1,1 @@
-# hostel-site
+# hostelhub-backend
